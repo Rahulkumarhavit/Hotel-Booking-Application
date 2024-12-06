@@ -1,11 +1,11 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "type":"module",
+  "type": "module",
   "description": "",
   "main": "./src/index.ts",
   "scripts": {
-    "dev":"nodemon"
+    "dev": "node api.js && nodemon"
   },
   "author": "",
   "license": "ISC",
